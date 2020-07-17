@@ -1,0 +1,32 @@
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.config
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.pdb
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.pdb
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\Michael\PersonalProject\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\bin\Debug\MessageQueuing.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe.manifest
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.application
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\MessageQueuing\MessageQueuing\obj\Debug\MessageQueuing.pdb
